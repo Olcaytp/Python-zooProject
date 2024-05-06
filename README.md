@@ -32,3 +32,7 @@ To run the zoo simulation:
 
 Feel free to contribute to this project by forking it and submitting a pull request!
 
+## Screenshots
+![Screenshot 1](https://github.com/Olcaytp/Python-zooProject/blob/main/assets/1.png)
+![Screenshot 2](https://github.com/Olcaytp/Python-zooProject/blob/main/assets/2.png)
+![Screenshot 3](https://github.com/Olcaytp/Python-zooProject/blob/main/assets/3.png)
